@@ -1,0 +1,10 @@
+.gold_box {
+    width: 80%;
+    display: flex;
+    margin: .5rem auto;
+    justify-content: space-between;
+    align-items: center;
+    /* padding-top: 24px; */
+    padding-left: 28px;
+    padding-right: 28px;
+}
